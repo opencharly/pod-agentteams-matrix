@@ -1,7 +1,5 @@
-version: 2026.232.0520
 agentteams-matrix:
     candy:
-        version: 2026.223.1436
         description: |-
             The AgentTeams Matrix homeserver — the Tuwunel static binary (a conduwuit
             fork, matrix-construct/tuwunel) extracted from the higress/tuwunel:20260216
